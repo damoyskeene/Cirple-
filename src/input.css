@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.greylove {
+  color:#fafafa;
+}
+.body-color {
+    background-color: #fafafa;
+}
+.btn {
+    @apply shadow-md py-3 px-6 rounded-full transition duration-200
+}
+
+.btn-black {
+    @apply bg-black text-white
+}
+
+.btn-white {
+    @apply bg-white text-black
+}
+
+.locolor {
+    color: white;
+}
