@@ -1,0 +1,12 @@
+{
+  "name": "tailprac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build:css": "tailwind build style.css -o dist/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
