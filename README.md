@@ -20,3 +20,6 @@ It should run out the box, but If you would like to play around.
 
 Enjoy. 
 
+Notes: 
+
+- The mobile view needs a few adjustments, things such as the menu is kinda wonky.
